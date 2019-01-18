@@ -6,3 +6,5 @@
 6. Saturn 
 7. Uranus 
 8. Neptune
+9. Pluto
+10. Moon
